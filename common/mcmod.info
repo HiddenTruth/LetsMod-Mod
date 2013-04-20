@@ -1,0 +1,20 @@
+[
+{
+  "modid": "LetsMod",
+  "name": "Let's Mod",
+  "description": "Learning to mod from the awesome Pahimar!",
+  "version": "0.0.1",
+  "url": "https://github.com/HiddenTruth/LetsMod-Mod",
+  "updateUrl": "",
+  "authorList": [
+    "HiddenTruth2012"
+  ],
+  "credits": "The Awesome Pahimar and his time to teach us newbies.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
